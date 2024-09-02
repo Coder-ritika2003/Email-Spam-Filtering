@@ -2,7 +2,7 @@
 
 
 
-TASK:-3
+TASK:-6
 
 Use a dataset of emails and build a model that can identify spam emails. The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research.
 
